@@ -5,8 +5,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on Robot Vision, SLAM, Reinforcement Learning
-- 🌱 I’m currently learning Adversarial Machine Learning, Deep Reinforcement Learning, 3D reconstruction
+- 🔭 I’m currently working on Robot Vision, SLAM, 3D reconstruction
+- 🌱 I’m currently learning Adversarial Machine Learning, Deep Reinforcement Learning
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... -->
