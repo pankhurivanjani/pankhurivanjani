@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... -->
 - 📫 How to reach me: [Gmail](pankhurivanjani@gmail.com) [Linkedin](https://www.linkedin.com/in/pankhuri-vanjani-767283101/) [Twitter](https://twitter.com/VanjaniPankhuri)
-- 😄 Pronouns: Her
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love sketching, reading novels. Checkout [myartpage](https://www.instagram.com/alchemy_with_shades/) and [goodreads](https://www.goodreads.com/user/show/40679683-pankhuri-vanjani) collection if you are into it too:)
 
 
