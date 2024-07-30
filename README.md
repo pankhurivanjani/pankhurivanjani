@@ -5,11 +5,11 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on Robot Vision, SLAM, 3D reconstruction, Human pose estimation
-- 🌱 I’m currently learning Adversarial Machine Learning, Deep Reinforcement Learning
-<!-- - 👯 I’m looking to collaborate on ... 
+- 🔭 I’m currently working on Robot Learning, Diffusion policies, Representation learning 
+- 🌱 I’m currently learning Explainability for robot learning, multimodal learning
+- 👯 I’m looking to collaborate on multimodal learning for robot manipulation tasks
 - 🤔 I’m looking for help with ... 
-- 💬 Ask me about ... -->
+- 💬 Ask me about ..
 - 📫 How to reach me: [Gmail](pankhurivanjani@gmail.com) [Linkedin](https://www.linkedin.com/in/pankhuri-vanjani-767283101/) [Twitter](https://twitter.com/VanjaniPankhuri)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love sketching, reading novels. Checkout [myartpage](https://www.instagram.com/alchemy_with_shades/) and [goodreads](https://www.goodreads.com/user/show/40679683-pankhuri-vanjani) collection if you are into it too:)
