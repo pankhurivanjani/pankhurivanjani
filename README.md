@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on Interactive Robot Learning with research around Diffusion policies, Representation learning, multimodal learning 
-- 🌱 I’m currently learning Explainability for robot learning, robust multimodal representations for Imitation learning 
+- 🌱 I’m currently learning Explainability for robot learning, robust multimodal representations for Imitation learning, Vision-Langugae Action models
 - 👯 I’m looking to collaborate on multimodal learning for robot manipulation tasks
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ..
